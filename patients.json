@@ -1,0 +1,40 @@
+{
+    "patients":[
+        {
+        "firstname":"Josh",
+        "lastname":"Terry",
+        "dob":"01/01/1990",
+        "phone":"8165888882",
+        "address":{
+            "street":"5 Main St",
+            "city":"Kansas City",
+            "state":"MO"
+        },
+        "doctors":["Dr. Patel","Dr. Britton"]
+        },
+        {
+            "firstname":"Julie",
+            "lastname":"Brown",
+            "dob":"02/22/1992",
+            "phone":"9135816524",
+            "address":{
+                "street":"5 Main St",
+                "city":"Overland Park",
+                "state":"KS"
+            },
+            "doctors":["Dr. Patel","Dr. Britton"]
+            },
+            {
+                "firstname":"Tim",
+                "lastname":"Miller",
+                "dob":"08/15/1968",
+                "phone":"4159854187",
+                "address":{
+                    "street":"5 Main St",
+                    "city":"San Francisco",
+                    "state":"CA"
+                },
+                "doctors":["Dr. Jones","Dr. Kramer"]
+                }
+    ]
+}
